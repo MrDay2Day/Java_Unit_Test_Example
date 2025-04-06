@@ -78,11 +78,11 @@ public class JavaDeveloperTest {
 ### 🔍 Frameworks & Tools Demonstrated
 
 - **JUnit 5** - The foundation of the testing strategy in this repository
+- - **Maven/~~Gradle~~** - For build automation and test execution
 
 ### 📋 Additional Frameworks For Further Exploration
 - **TestNG** - For more complex testing scenarios requiring advanced features
 - **Mockito** - For mocking external dependencies and isolating units under test
-- **Maven/Gradle** - For build automation and test execution
 - **Continuous Integration** - Automated testing pipelines with Jenkins/GitHub Actions
 
 ### 📊 Best Practices Demonstrated
