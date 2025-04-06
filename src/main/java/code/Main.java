@@ -10,5 +10,9 @@ public class Main {
         } catch (ArithmeticException e) {
             System.out.println("Error: " + e.getMessage());
         }
+
+        JavaDeveloper developer = new JavaDeveloper();
+        System.out.println("Java Developer Skills: " + developer.getTestingSkills());
+        
     }
 }
